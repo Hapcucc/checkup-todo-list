@@ -1,3 +1,16 @@
 body {
-    background-color: bisque;
+    background-color: rgb(243, 241, 240);
+    color: white;
+}
+header {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,57,1) 65%, rgba(0,212,255,1) 100%);
+    height: auto;
+    text-align: left;
+    width: 100%;
+    max-width: 1400px;
+}
+sub:hover {
+text-shadow: whitesmoke;
+margin: 30px 10px;
 }
